@@ -1,0 +1,6 @@
+[submodule "MainAppCode/ValoSCORE-Main-App-Code-"]
+	path = MainAppCode/ValoSCORE-Main-App-Code-
+	url = https://github.com/bastysmc/ValoSCORE-Main-App-Code-
+[submodule "UpdateScriptCode/ValoSCORE-Update-Script-Code-"]
+	path = UpdateScriptCode/ValoSCORE-Update-Script-Code-
+	url = https://github.com/bastysmc/ValoSCORE-Update-Script-Code-
