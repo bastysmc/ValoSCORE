@@ -7,5 +7,7 @@ The objective of this app is to store these stats into a local S.Q.L. server tha
 
 After that, there is no need for an active Internet connection to check your stats or others (unless you want to update the data). 
 As for the User Interface, as well as back-end code, I used C# with a WPF custom-made template by myself.
-`Language available : Romanian - other languages will be implemented soon`
+
+`Language available : Romanian - other languages will be implemented soon!`
+
 `More info about the app and details will be coming soon!`
