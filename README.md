@@ -14,3 +14,5 @@ As for the User Interface, as well as back-end code, I used C# with a WPF custom
 `Language : Romanian - other languages will be available soon!`
 
 `More info about the app and details will be coming soon!`
+
+`Main App is AVAILABLE to be used!`
