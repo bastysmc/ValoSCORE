@@ -2,10 +2,10 @@
 > **Version 1.0 - Deprecated**
 
 ![ValoSCORE_Banner](https://github.com/bastysmc/ValoSCORE/assets/127879422/e2741e2a-d67a-4e92-9cdb-ede774bfaced)
-
+## Introduction
 ValoSCORE is a project developed for the design and implementation of a monitoring platform for tracking statistics in video games. Specifically, it focuses on Valorant, a first-person shooter developed by Riot Games. Player statistics from the game can be accessed through [tracker.gg](https://tracker.gg/).
 
-The objective of this application is to store these game statistics locally in an SQL server. On the first app launch, an auto-generated database is created. This is achieved by utilizing Selenium WebDriver, a web scraping service, to collect, save, and update publicly available user statistics from the website into the local database.
+The objective of this application is to store these game statistics locally in an SQL server. On the first app launch, an auto-generated database is created. Saving user stats is achieved by utilizing Selenium WebDriver, a web scraping service, to collect, save, and update publicly available user statistics from the website into the local database.
 
 Once the data is stored, an active internet connection is not required to view the saved statistics, unless you wish to update the data. The application's user interface and back-end code are built using C# with a custom-made WPF template.
 
