@@ -11,11 +11,11 @@ Once the data is stored, an active internet connection is not required to view t
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/ca08d90b-50df-458b-9a81-07a64c1e6763.png)
-![Screenshot 2](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/c01046ee-c4cf-4d83-af91-4b142c1937c3.png)
-![Screenshot 3](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/0b77261b-fb7e-4748-9be5-2d39816b4278.png)
-![Screenshot 4](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/565abea0-8ed6-4803-9d77-aa919613d333.png)
-![Screenshot 5](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/8ea442ea-c8fc-4f21-8290-15fb61f6e56c.png)
-![Screenshot 6](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/406a7236-9213-44c2-8fd7-cfb642951140.png)
+![Screenshot_1](https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158)
+![Screenshot_2](https://github.com/bastysmc/ValoSCORE/assets/127879422/780d77f2-018f-4259-8cfe-92cc86006d55)
+![Screenshot_3](https://github.com/bastysmc/ValoSCORE/assets/127879422/22433a58-e4a1-420c-b145-9b21445c9312)
+![Screenshot_4](https://github.com/bastysmc/ValoSCORE/assets/127879422/654435ed-5053-4f53-b003-30d1c04310da)
+![Screenshot_5](https://github.com/bastysmc/ValoSCORE/assets/127879422/d8f65822-103c-4da9-b74f-7ab321b0d30d)
+![Screenshot_6](https://github.com/bastysmc/ValoSCORE/assets/127879422/13d245b6-d235-4c3e-bb24-d89e34699bf4)
 
 > **Version 2.0 - Coming Soon**
