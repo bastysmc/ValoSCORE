@@ -120,4 +120,4 @@ Once the data is stored, an active internet connection is not required to view t
 
 ## Disclaimer
 
-**This project is developed independently for educational purposes/student research only and it is not affiliated with or endorsed by Riot Games or any other third-party entities mentioned in the documentation.**
+**This project is developed independently for educational purposes/diploma project/student research only and it is not affiliated with or endorsed by Riot Games or any other third-party entities mentioned in the documentation.**
