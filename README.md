@@ -18,7 +18,7 @@ Once the data is stored, an active internet connection is not required to view t
     <div style="flex: 1;">
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158" alt="Screenshot_1" width="400">
 </div>
-    <div style="flex: 1; align-items: right">
+    <div style="flex: 1;>
 <p>A screenshot of the dashboard showcasing various game statistics.</p>
    </div>
 </div>
@@ -27,18 +27,13 @@ Once the data is stored, an active internet connection is not required to view t
 <div style="display: flex; gap: 20px; align-items: center>
     <div style="flex: 1;">
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/780d77f2-018f-4259-8cfe-92cc86006d55" alt="Screenshot_2" width="400">
-</div>
-    <div style="flex: 1;">
+
 <p>A screenshot of the dashboard showcasing various game statistics.</p>
 </div>
-</div>
-
 ### Stats View Screen - User + Options
-<div style="display: flex; gap: 20px; align-items: center>
-    <div style="flex: 1;">
+
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/22433a58-e4a1-420c-b145-9b21445c9312" alt="Screenshot_3" width="400">
-    </div>
-    <div style="flex: 1;">
+
 <p>A screenshot of the dashboard showcasing various game statistics.</p>
 </div>
 </div>
