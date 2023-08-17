@@ -19,7 +19,7 @@ Once the data is stored, an active internet connection is not required to view t
       <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
         <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158" alt="Screenshot_1" width="400">
         <br>
-          <b>Main Screen</b>
+          <p><b>Main Screen</b></p>
       </div>
     </td>
     <td>
