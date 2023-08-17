@@ -1,7 +1,7 @@
 # ValoSCORE
 > **Version 1.0 - Deprecated**
 
-![ValoSCORE Banner](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/01dca738-e900-489f-a41f-f6ec6c8b73e2.png)
+![ValoSCORE_Banner](https://github.com/bastysmc/ValoSCORE/assets/127879422/e2741e2a-d67a-4e92-9cdb-ede774bfaced)
 
 ValoSCORE is a project developed for the design and implementation of a monitoring platform for tracking statistics in video games. Specifically, it focuses on Valorant, a first-person shooter developed by Riot Games. Player statistics from the game can be accessed through [tracker.gg](https://tracker.gg/).
 
