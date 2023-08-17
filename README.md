@@ -13,27 +13,10 @@ Once the data is stored, an active internet connection is not required to view t
 > <sub>Also seems like [Tracker Network](https://tracker.gg/) doesn't handle requests anymore from the Automated Tests in Selenium WebDriver as of 17/08/2023</sub>
 
 ## Interface
-
-<style>
-    /* Apply centering styles to the table cells */
-    td {
-      text-align: center;
-    }
-
-    /* Center the flex container horizontally */
-    .centered-container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100%;
-    }
-  </style>
-
 <table>
   <tr>
     <td>
-      <div class="centered-container">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
         <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158" alt="Screenshot_1" width="400">
         <br>
           <b>Main Screen</b>
