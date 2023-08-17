@@ -8,103 +8,103 @@ The objective of this application is to store these game statistics locally in a
 Once the data is stored, an active internet connection is not required to view the saved statistics, unless you wish to update the data. The application's user interface and back-end code are built using C# with a custom-made WPF template.
 
 > **Version 1.0 - Deprecated**
-
-## Interface
-<table>
-  <tr>
-    <td>
-      <div style="display: flex; gap: 20px; align-items: center;">
-        <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158" alt="Screenshot_1" width="400">
-        <br>
-          <b style="text-align: center;">Main Screen</b>
-      </div>
-    </td>
-    <td>
-      <div style="flex: 1;">
-        <p>A screenshot of the dashboard showcasing various game statistics.</p>
-      </div>
-    </td>
-  </tr>
-   <tr>
-    <td>
-      <div style="display: flex; gap: 20px; align-items: center;">
-<img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/780d77f2-018f-4259-8cfe-92cc86006d55" alt="Screenshot_2" width="400">
-         <br>
-          <b>Adding User Screen</b>
-      </div>
-    </td>
-    <td>
-      <div style="flex: 1;">
-        <p>A screenshot of the dashboard showcasing various game statistics.</p>
-      </div>
-    </td>
-  </tr>
-     <tr>
-    <td>
-      <div style="display: flex; gap: 20px; align-items: center;">
-<img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/22433a58-e4a1-420c-b145-9b21445c9312" alt="Screenshot_3" width="400">
-         <br>
-          <b>Stats View Screen - User + Options</b>
-      </div>
-    </td>
-    <td>
-      <div style="flex: 1;">
-        <p>A screenshot of the dashboard showcasing various game statistics.</p>
-      </div>
-    </td>
-  </tr>
-     <tr>
-    <td>
-      <div style="display: flex; gap: 20px; align-items: center;">
-<img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/654435ed-5053-4f53-b003-30d1c04310da" alt="Screenshot_4" width="400">
-         <br>
-          <b>Stats View Screen - in-game Overview</b>
-      </div>
-    </td>
-    <td>
-      <div style="flex: 1;">
-        <p>A screenshot of the dashboard showcasing various game statistics.</p>
-      </div>
-    </td>
-  </tr>
-     <tr>
-    <td>
-      <div style="display: flex; gap: 20px; align-items: center;">
-<img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/d8f65822-103c-4da9-b74f-7ab321b0d30d" alt="Screenshot_5" width="400">
-         <br>
-          <b>Stats View Screen - in-game Accuracy</b>
-      </div>
-    </td>
-    <td>
-      <div style="flex: 1;">
-        <p>A screenshot of the dashboard showcasing various game statistics.</p>
-      </div>
-    </td>
-  </tr>
-     <tr>
-    <td>
-      <div style="display: flex; gap: 20px; align-items: center;">
-<img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/13d245b6-d235-4c3e-bb24-d89e34699bf4" alt="Screenshot_6" width="400">
-         <br>
-          <b>Stats View Screen - Recent Matches</b>
-      </div>
-    </td>
-    <td>
-      <div style="flex: 1;">
-        <p>A screenshot of the dashboard showcasing various game statistics.</p>
-      </div>
-    </td>
-  </tr>
- <tr>
-    <td colspan="2">
-      <div style="display: flex; gap: 20px; align-items: center;">
-<img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/13d245b6-d235-4c3e-bb24-d89e34699bf4" alt="Screenshot_Placeholder" width="400">
-         <br>
-          <b>Demo Video</b>
-      </div>
-    </td>
-  </tr>
-</table>
+>## Interface
+><table>
+>  <tr>
+>    <td>
+>      <div style="display: flex; gap: 20px; align-items: center;">
+>       <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158" alt="Screenshot_1" width="400">
+>        <br>
+>          <b style="text-align: center;">Main Screen</b>
+>      </div>
+>    </td>
+>    <td>
+>      <div style="flex: 1;">
+>        <p>A screenshot of the dashboard showcasing various game statistics.</p>
+>      </div>
+>    </td>
+>  </tr>
+>   <tr>
+>    <td>
+>      <div style="display: flex; gap: 20px; align-items: center;">
+><img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/780d77f2-018f-4259-8cfe-92cc86006d55" alt="Screenshot_2" width="400">
+>         <br>
+>          <b>Adding User Screen</b>
+>      </div>
+>    </td>
+>    <td>
+>      <div style="flex: 1;">
+>        <p>A screenshot of the dashboard showcasing various game statistics.</p>
+>      </div>
+>    </td>
+>  </tr>
+>     <tr>
+>    <td>
+>      <div style="display: flex; gap: 20px; align-items: center;">
+><img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/22433a58-e4a1-420c-b145-9b21445c9312" alt="Screenshot_3" width="400">
+>         <br>
+>          <b>Stats View Screen - User + Options</b>
+>      </div>
+>    </td>
+>    <td>
+>      <div style="flex: 1;">
+>        <p>A screenshot of the dashboard showcasing various game statistics.</p>
+>      </div>
+>    </td>
+>  </tr>
+>     <tr>
+>    <td>
+>      <div style="display: flex; gap: 20px; align-items: center;">
+><img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/654435ed-5053-4f53-b003-30d1c04310da" alt="Screenshot_4" width="400">
+>         <br>
+>          <b>Stats View Screen - in-game Overview</b>
+>      </div>
+>    </td>
+>    <td>
+>      <div style="flex: 1;">
+>        <p>A screenshot of the dashboard showcasing various game statistics.</p>
+>      </div>
+>   </td>
+>  </tr>
+>     <tr>
+>    <td>
+>      <div style="display: flex; gap: 20px; align-items: center;">
+><img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/d8f65822-103c-4da9-b74f-7ab321b0d30d" alt="Screenshot_5" width="400">
+>         <br>
+>          <b>Stats View Screen - in-game Accuracy</b>
+>      </div>
+>    </td>
+>    <td>
+>      <div style="flex: 1;">
+>        <p>A screenshot of the dashboard showcasing various game statistics.</p>
+>      </div>
+>   </td>
+>  </tr>
+>     <tr>
+>    <td>
+>      <div style="display: flex; gap: 20px; align-items: center;">
+><img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/13d245b6-d235-4c3e-bb24-d89e34699bf4" alt="Screenshot_6" width="400">
+>         <br>
+>          <b>Stats View Screen - Recent Matches</b>
+>      </div>
+>    </td>
+>    <td>
+>      <div style="flex: 1;">
+>        <p>A screenshot of the dashboard showcasing various game statistics.</p>
+>      </div>
+>    </td>
+>  </tr>
+> <tr>
+>    <td colspan="2">
+>      <div style="display: flex; gap: 20px; align-items: center;">
+><img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/13d245b6-d235-4c3e-bb24-d89e34699bf4" alt="Screenshot_Placeholder" width="400">
+>         <br>
+>          <b>Demo Video</b>
+>      </div>
+>    </td>
+>  </tr>
+></table>
+>
 
 > **Version 2.0 - Coming Soon**
 
