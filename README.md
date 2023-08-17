@@ -16,7 +16,7 @@ Once the data is stored, an active internet connection is not required to view t
 
 <table>
   <tr>
-    <td>
+    <td style ="vertical-align: middle;">
       <div style="display: flex; gap: 20px; align-items: center;">
         <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158" alt="Screenshot_1" width="400">
         <br>
