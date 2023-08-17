@@ -8,6 +8,7 @@ The objective of this application is to store these game statistics locally in a
 Once the data is stored, an active internet connection is not required to view the saved statistics, unless you wish to update the data. The application's user interface and back-end code are built using C# with a custom-made WPF template.
 
 > **Version 1.0 - Deprecated**
+> 
 > Trying to do the transition to 2.0 + Seems like tracker network doesn't handle requests anymore from the Automated Tests in Selenium WebDriver
 
 ## Screenshots - Version 1.0
