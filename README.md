@@ -9,7 +9,7 @@ Once the data is stored, an active internet connection is not required to view t
 
 > **Version 1.0 - Deprecated**
 >
-> <sub>Trying to do the transition to Version 2.0</sub>
+> <sub>Trying to do the transition to Version 2.0</sub> <br>
 > <sub>Also seems like [Tracker Network](https://tracker.gg/) doesn't handle requests anymore from the Automated Tests in Selenium WebDriver as of 17/08/2023</sub>
 
 ## Screenshots - Version 1.0
