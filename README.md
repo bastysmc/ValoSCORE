@@ -36,21 +36,39 @@ Once the data is stored, an active internet connection is not required to view t
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/22433a58-e4a1-420c-b145-9b21445c9312" alt="Screenshot_3" width="400">
     </div>
     <div style="flex: 1;">
-<p></p>A screenshot of the dashboard showcasing various game statistics.</p>
+<p>A screenshot of the dashboard showcasing various game statistics.</p>
 </div>
 </div>
 
 ### Stats View Screen - in-game Overview
+<div style="display: flex; gap: 20px; align-items: center>
+    <div style="flex: 1;">
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/654435ed-5053-4f53-b003-30d1c04310da" alt="Screenshot_4" width="400">
-A screenshot of the dashboard showcasing various game statistics.
+     </div>
+    <div style="flex: 1;">
+<p>A screenshot of the dashboard showcasing various game statistics.</p>
+</div>
+</div>
 
 ### Stats View Screen - in-game Accuracy
+<div style="display: flex; gap: 20px; align-items: center>
+    <div style="flex: 1;">
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/d8f65822-103c-4da9-b74f-7ab321b0d30d" alt="Screenshot_5" width="400">
-A screenshot of the dashboard showcasing various game statistics.
+     </div>
+    <div style="flex: 1;">
+<p>A screenshot of the dashboard showcasing various game statistics.</p>
+</div>
+</div>
 
 ### Stats View Screen - Recent Matches
+<div style="display: flex; gap: 20px; align-items: center>
+    <div style="flex: 1;">
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/13d245b6-d235-4c3e-bb24-d89e34699bf4" alt="Screenshot_6" width="400">
-A screenshot of the dashboard showcasing various game statistics.
+    </div>
+    <div style="flex: 1;">
+<p>A screenshot of the dashboard showcasing various game statistics.</p>
+</div>
+</div>
 
 > **Version 2.0 - Coming Soon**
 
