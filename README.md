@@ -12,7 +12,7 @@ Once the data is stored, an active internet connection is not required to view t
 > ChangeLog
 >* Changing Custom Web Scraping Wrapper for [Tracker Network](https://tracker.gg/) to using a hybrid between [Unofficial Valorant API](https://github.com/Henrik-3/unofficial-valorant-api) developed by [@Henirk-3](https://github.com/Henrik-3) for mostly all the previous stats the app has shown in 1.0 version and using HtmlAgilityPack for [Tracker Network](https://tracker.gg/) to get the geo-location of the user (if public-made by the user) as well as his Roles winning percentage.
 >* Adding Competitive Rank to the stats of the user
->* Implementing a brand new modern UI
+>* Implementing a brand new modern UI:
 >  <br>- before the transition was done between multiple windows, now it will be done into a single window with multiple views;
 >  <br>- added a new way to interact with interface by adding custom UI Elements and effects as well;
 
