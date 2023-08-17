@@ -1,6 +1,4 @@
 # ValoSCORE
-> **Version 1.0 - Deprecated**
-
 ![ValoSCORE_Banner](https://github.com/bastysmc/ValoSCORE/assets/127879422/e2741e2a-d67a-4e92-9cdb-ede774bfaced)
 ## Introduction
 ValoSCORE is a project developed for the design and implementation of a monitoring platform for tracking statistics in video games. Specifically, it focuses on Valorant, a first-person shooter developed by Riot Games. Player statistics from the game can be accessed through [tracker.gg](https://tracker.gg/).
@@ -9,6 +7,7 @@ The objective of this application is to store these game statistics locally in a
 
 Once the data is stored, an active internet connection is not required to view the saved statistics, unless you wish to update the data. The application's user interface and back-end code are built using C# with a custom-made WPF template.
 
+> **Version 1.0 - Deprecated**
 ## Screenshots - Version 1.0
 ### Main Screen
 <div style="display: flex; gap: 20px; align-items: center>
