@@ -12,7 +12,7 @@ Once the data is stored, an active internet connection is not required to view t
 ## Screenshots - Version 1.0
 ### Main Screen
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158" alt="Screenshot_1" width="400">
-A screenshot of the dashboard showcasing various game statistics.
+<p align="center">A screenshot of the dashboard showcasing various game statistics.</p>
 
 ### Adding User Screen
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/780d77f2-018f-4259-8cfe-92cc86006d55" alt="Screenshot_2" width="400">
