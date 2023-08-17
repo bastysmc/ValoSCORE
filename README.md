@@ -14,10 +14,26 @@ Once the data is stored, an active internet connection is not required to view t
 
 ## Interface
 
+<style>
+    /* Apply centering styles to the table cells */
+    td {
+      text-align: center;
+    }
+
+    /* Center the flex container horizontally */
+    .centered-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+    }
+  </style>
+
 <table>
   <tr>
-    <td style ="vertical-align: middle;">
-      <div style="display: flex; gap: 20px; align-items: center;">
+    <td>
+      <div class="centered-container">
         <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158" alt="Screenshot_1" width="400">
         <br>
           <b>Main Screen</b>
