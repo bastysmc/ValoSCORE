@@ -17,7 +17,7 @@ Once the data is stored, an active internet connection is not required to view t
 >  - added a new way to interact with interface by adding custom UI Elements and effects as well;
 
 <br><br>
-#**Version 1.0**
+# Version 1.0
 >## Interface
 ><table>
 >  <tr>
@@ -116,7 +116,7 @@ Once the data is stored, an active internet connection is not required to view t
 ></table>
 >
 
-#**Version 2.0 - Coming Soon**
+# Version 2.0 - Coming Soon
 
 ## Disclaimer
 
