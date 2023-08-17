@@ -11,9 +11,11 @@ Once the data is stored, an active internet connection is not required to view t
 
 ## Screenshots - Version 1.0
 ### Main Screen
-<div style="display: flex; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center>
+    <div style="flex: 1;">
+</div>
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/42bd165e-917f-4428-8a60-2f9ef7cea158" alt="Screenshot_1" width="400">
-   <div style="margin-left: 20px;">
+    <div style="flex: 1;">
 <p>A screenshot of the dashboard showcasing various game statistics.</p>
    </div>
 </div>
