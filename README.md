@@ -16,7 +16,7 @@ Once the data is stored, an active internet connection is not required to view t
   - before the transition was done between multiple windows, now it will be done into a single window with multiple views;
   - added a new way to interact with interface by adding custom UI Elements and effects as well;
 
-
+<br><br>
 > **Version 1.0 - Deprecated**
 >## Interface
 ><table>
