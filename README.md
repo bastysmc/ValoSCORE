@@ -8,12 +8,14 @@ The objective of this application is to store these game statistics locally in a
 
 Once the data is stored, an active internet connection is not required to view the saved statistics, unless you wish to update the data. The application's user interface and back-end code are built using C# with a custom-made WPF template.
 
-### Version 2.0alpha - ChangeLog
+### Version 2.0alpha 
+> ChangeLog
 * Changing Custom Web Scraping Wrapper for [Tracker Network](https://tracker.gg/) to using a hybrid between [Unofficial Valorant API](https://github.com/Henrik-3/unofficial-valorant-api) developed by [@Henirk-3](https://github.com/Henrik-3) for mostly all the previous stats the app has shown in 1.0 version and using HtmlAgilityPack for [Tracker Network](https://tracker.gg/) to get the geo-location of the user (if public-made by the user).
 * Adding Competitive Rank to the stats of the user
 * Implementing a brand new modern UI
   - before the transition was done between multiple windows, now it will be done into a single window with multiple views;
   - added a new way to interact with interface by adding custom UI Elements and effects as well;
+
 
 > **Version 1.0 - Deprecated**
 >## Interface
