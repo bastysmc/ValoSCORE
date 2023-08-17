@@ -1,11 +1,21 @@
 # ValoSCORE
-`Version 1.0 - deprecated`
-![Screenshot 2023-05-20 233448 - Copy](https://github.com/bastysmc/ValoSCORE/assets/127879422/01dca738-e900-489f-a41f-f6ec6c8b73e2)
+> **Version 1.0 - Deprecated**
 
-  ValoSCORE is a project developed specifically for the design and implementation of a monitoring platform for the evolution of statistics in video games.
-  In this case, I tried to implement such an application for a game called Valorant, a first person shooter game developed by Riot Games. For any user, the stats from this game are saved in a website called [tracker.gg](https://tracker.gg/).
-  The objective of this app is to store these stats into a local S.Q.L. server that has an auto-generated database if you open the app for the first time. The public available stats from website for any introduced user are collected, saved and updated into the database by using a Web Scraping service called Selenium WebDriver. 
-  After that, there is no need for an active Internet connection to check your stats or others (unless you want to update the data). 
-As for the User Interface, as well as back-end code, I used C# with a WPF custom-made template by myself.
+![ValoSCORE Banner](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/01dca738-e900-489f-a41f-f6ec6c8b73e2.png)
 
-`Version 2.0 - coming soon`
+ValoSCORE is a project developed for the design and implementation of a monitoring platform for tracking statistics in video games. Specifically, it focuses on Valorant, a first-person shooter developed by Riot Games. Player statistics from the game can be accessed through [tracker.gg](https://tracker.gg/).
+
+The objective of this application is to store these game statistics locally in an SQL server. On the first app launch, an auto-generated database is created. This is achieved by utilizing Selenium WebDriver, a web scraping service, to collect, save, and update publicly available user statistics from the website into the local database.
+
+Once the data is stored, an active internet connection is not required to view the saved statistics, unless you wish to update the data. The application's user interface and back-end code are built using C# with a custom-made WPF template.
+
+## Screenshots
+
+![Screenshot 1](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/ca08d90b-50df-458b-9a81-07a64c1e6763.png)
+![Screenshot 2](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/c01046ee-c4cf-4d83-af91-4b142c1937c3.png)
+![Screenshot 3](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/0b77261b-fb7e-4748-9be5-2d39816b4278.png)
+![Screenshot 4](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/565abea0-8ed6-4803-9d77-aa919613d333.png)
+![Screenshot 5](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/8ea442ea-c8fc-4f21-8290-15fb61f6e56c.png)
+![Screenshot 6](https://github.com/bastysmc/ValoSCORE/blob/assets/127879422/406a7236-9213-44c2-8fd7-cfb642951140.png)
+
+> **Version 2.0 - Coming Soon**
