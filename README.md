@@ -19,3 +19,7 @@ Once the data is stored, an active internet connection is not required to view t
 ![Screenshot_6](https://github.com/bastysmc/ValoSCORE/assets/127879422/13d245b6-d235-4c3e-bb24-d89e34699bf4)
 
 > **Version 2.0 - Coming Soon**
+
+## Disclaimer
+
+**This project is developed independently for educational purposes/student research only and it is not affiliated with or endorsed by Riot Games or any other third-party entities mentioned in the documentation.**
