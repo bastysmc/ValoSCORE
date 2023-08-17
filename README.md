@@ -8,9 +8,6 @@ The objective of this application is to store these game statistics locally in a
 Once the data is stored, an active internet connection is not required to view the saved statistics, unless you wish to update the data. The application's user interface and back-end code are built using C# with a custom-made WPF template.
 
 > **Version 1.0 - Deprecated**
->
-> <sub>Trying to do the transition to Version 2.0</sub> <br>
-> <sub>Also seems like [Tracker Network](https://tracker.gg/) doesn't handle requests anymore from the Automated Tests in Selenium WebDriver as of 17/08/2023</sub>
 
 ## Interface
 <table>
