@@ -94,7 +94,7 @@ Once the data is stored, an active internet connection is not required to view t
     </td>
   </tr>
  <tr>
-    <td>
+    <td colspan="2">
       <div style="display: flex; gap: 20px; align-items: center;">
 <img src="https://github.com/bastysmc/ValoSCORE/assets/127879422/13d245b6-d235-4c3e-bb24-d89e34699bf4" alt="Screenshot_Placeholder" width="400">
           <b>Demo Video</b>
