@@ -2,7 +2,7 @@
 ![ValoSCORE_Banner](https://github.com/bastysmc/ValoSCORE/assets/127879422/e2741e2a-d67a-4e92-9cdb-ede774bfaced)
 ## Introduction
 ### Version 0.9pre-build
-ValoSCORE is a project developed for the design and implementation of a monitoring platform for tracking statistics in video games. Specifically, it focuses on Valorant, a first-person shooter developed by Riot Games. Player statistics from the game can be accessed through [Tracker Network](https://tracker.gg/).
+ValoSCORE is a project developed for the design and implementation of a monitoring platform for tracking statistics in video games. Specifically, it focuses on Valorant, a first-person shooter developed by Riot Games. Player statistics from the game can be accessed through [Tracker Network](https://tracker.gg/) by using a Web Scraper (version 0.9pre-build) or by using an API that connects to Riot/Valorant (to implement for version 1.0).
 
 The objective of this application is to store these game statistics locally in an SQL server. On the first app launch, an auto-generated database is created. Saving user stats is achieved by utilizing Selenium WebDriver, a web scraping service, to collect, save, and update publicly available user statistics from the website into the local database.
 
@@ -10,7 +10,7 @@ Once the data is stored, an active internet connection is not required to view t
 
 ### Version 1.0alpha 
 > Change Log
->* Changing Custom Web Scraping Wrapper for [Tracker Network](https://tracker.gg/) to using a hybrid between [Unofficial Valorant API](https://github.com/Henrik-3/unofficial-valorant-api) developed by [@Henirk-3](https://github.com/Henrik-3) for mostly all the previous stats the app has shown in 1.0 version and using HtmlAgilityPack for [Tracker Network](https://tracker.gg/) to get the geo-location of the user (if public-made by the user) as well as his Roles winning percentage.
+>* Changing Custom Web Scraping Wrapper for [Tracker Network](https://tracker.gg/) to using a hybrid between [Unofficial Valorant API](https://github.com/Henrik-3/unofficial-valorant-api) developed by [@Henirk-3](https://github.com/Henrik-3) for mostly all the previous stats the app has shown in 0.9pre-build version and using HtmlAgilityPack for [Tracker Network](https://tracker.gg/) to get the geo-location of the user (if public-made by the user), playtime, total of matches played, roles winning percentage and most used agent in Unrated.
 >* Adding Competitive Rank to the stats of the user
 >* Implementing a brand new modern UI:
 >  <br>- before the transition was done between multiple windows, now it will be done into a single window with multiple views;
