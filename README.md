@@ -1,15 +1,15 @@
 # ValoSCORE
 ![ValoSCORE_Banner](https://github.com/bastysmc/ValoSCORE/assets/127879422/e2741e2a-d67a-4e92-9cdb-ede774bfaced)
 ## Introduction
-### Version 1.0
+### Version 0.9pre-build
 ValoSCORE is a project developed for the design and implementation of a monitoring platform for tracking statistics in video games. Specifically, it focuses on Valorant, a first-person shooter developed by Riot Games. Player statistics from the game can be accessed through [Tracker Network](https://tracker.gg/).
 
 The objective of this application is to store these game statistics locally in an SQL server. On the first app launch, an auto-generated database is created. Saving user stats is achieved by utilizing Selenium WebDriver, a web scraping service, to collect, save, and update publicly available user statistics from the website into the local database.
 
 Once the data is stored, an active internet connection is not required to view the saved statistics, unless you wish to update the data. The application's user interface and back-end code are built using C# with a custom-made WPF template.
 
-### Version 2.0alpha 
-> ChangeLog
+### Version 1.0alpha 
+> Change Log
 >* Changing Custom Web Scraping Wrapper for [Tracker Network](https://tracker.gg/) to using a hybrid between [Unofficial Valorant API](https://github.com/Henrik-3/unofficial-valorant-api) developed by [@Henirk-3](https://github.com/Henrik-3) for mostly all the previous stats the app has shown in 1.0 version and using HtmlAgilityPack for [Tracker Network](https://tracker.gg/) to get the geo-location of the user (if public-made by the user) as well as his Roles winning percentage.
 >* Adding Competitive Rank to the stats of the user
 >* Implementing a brand new modern UI:
@@ -17,7 +17,7 @@ Once the data is stored, an active internet connection is not required to view t
 >  <br>- added a new way to interact with interface by adding custom UI Elements and effects as well;
 
 <br><br>
-# Version 1.0
+# Version 0.9pre-build
 >## Interface
 ><table>
 >  <tr>
@@ -116,7 +116,7 @@ Once the data is stored, an active internet connection is not required to view t
 ></table>
 >
 
-# Version 2.0 - Coming Soon
+# Version 1.0 - Coming Soon
 
 ## Disclaimer
 
